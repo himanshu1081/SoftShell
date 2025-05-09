@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'Akira';
+    src: url('./assets/fonts/Akira.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+.second-part{
+    margin-top: 100px;
+    padding: 50px;
+    width: 100vw;
+}
+
+.second-part-main {
+    width: 90vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.arrow-right {
+    color: black;
+    font-size: 40px;
+    margin: 10px;
+}
+
+.heading2 {
+    font-family: "Akira",sans-serif;
+    color: black;
+    font-size: 40px;
+    margin: 0;
+    padding: 0;
+}
+.description2 {
+    width: 35%;
+    color: #1b1a1a;
+    font-family: 'Lexend Deca',sans-serif;
+    margin-bottom: 30px;
+}
