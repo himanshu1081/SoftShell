@@ -7,8 +7,10 @@
 .second-part{
     margin-top: 50px;
     padding: 50px;
-    width: 100vw;
-    background-color: rgb(255, 255, 255);
+    background-color: #f8d3d3;
+    border-radius: 25px;
+    margin-bottom: 20px;
+    border: 1px solid black;
 }
 
 .second-part-main {

@@ -11,6 +11,7 @@
     border-radius: 25px;
     background-color: #a9cdc8;
     height: 95vh;
+    border: 1px solid black;
 }
 
 .first-content {
