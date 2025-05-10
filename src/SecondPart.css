@@ -5,7 +5,7 @@
     font-style: normal;
 }
 .second-part{
-    margin-top: 100px;
+    margin-top: 50px;
     padding: 50px;
     width: 100vw;
 }
@@ -30,6 +30,7 @@
     font-size: 40px;
     margin: 0;
     padding: 0;
+    letter-spacing: 5px;
 }
 .description2 {
     width: 35%;

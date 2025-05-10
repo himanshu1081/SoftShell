@@ -1,0 +1,27 @@
+.third-part{
+    background-color: #a9cdc8;
+    border-radius: 25px;
+    margin: 0;
+    padding: 0;
+    height: 50vh;
+}
+
+.third-part-main{
+    padding:20px 50px;
+    margin:0px;
+}
+
+
+.heading3{
+    font-family: "Akira",sans-serif;
+    color: black;
+    font-size: 40px;
+    margin: 0;
+    padding: 0;
+    letter-spacing: 5px;
+}
+.points{
+    color: #2c2c2c;
+    font-family: "Lexend Deca", sans-serif;
+    font-size: 20px;
+}

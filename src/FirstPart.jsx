@@ -31,7 +31,8 @@ function FirstPart() {
                             <li>Apple</li>
                         </ol>
                     </div>
-                    <p className='description'>SoftShell empowers individuals and businesses by reselling genuine software licenses at competitive prices.</p>
+                    <p className='description'>Softshell is a trusted platform that specializes in the resale and distribution of unused software licenses.
+We help businesses unlock hidden value by offering quick valuations, secure transactions, and fast payouts. With a focus on transparency and efficiency, Softshell connects license holders with buyers across Europe—making license monetization simple and reliable.</p>
                 </div>
             </div>
         </>
