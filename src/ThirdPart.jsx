@@ -5,7 +5,7 @@ function ThirdPart() {
         <>
             <div className="third-part">
                 <div className="third-part-main">
-                    <p className="heading3">Why Choose Us?</p>
+                    <p className="heading3" id="why-choose-us">Why Choose Us?</p>
                     <ul className="why-choose-us">
                         <li className='points'>Trusted Expertise: With years of experience in software license distribution, we ensure professional and reliable service every step of the way.</li>
                         <li className='points'>Transparent Valuations: Our process offers clear, market-driven valuations, so you always know the true worth of your licenses.</li>

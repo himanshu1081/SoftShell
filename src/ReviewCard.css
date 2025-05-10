@@ -1,0 +1,24 @@
+.card-container{
+    background-color: white;
+    height: 500px;
+    width: 350px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: black;
+    border-radius:25px ;
+    transition: all 200ms;
+}
+.card-container:hover{
+  box-shadow:0 0 5px rgb(117, 117, 117);
+  transform: scale(1.01);
+}
+.review{
+    width:20vw;
+}
+.customer-image {
+  height: 200px;
+  width: 150px;
+  border-radius: 30px;
+}

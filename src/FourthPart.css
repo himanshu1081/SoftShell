@@ -1,12 +1,23 @@
 .fourth-part{
-    background-color: pink;
+    background-color: rgb(0, 0, 0);
+    border-radius:25px ;
+    margin-top: 10px;
+    height: 90vh;
+}
+.fourth-part-main{
+    margin: 30px;
 }
 .heading4{
     font-family: "Akira",sans-serif;
-    color: black;
+    color: rgb(255, 255, 255);
     font-size: 40px;
-    margin: 0;
-    padding: 0;
+    margin: 10px;
+    padding: 10px;
     text-align: center;
     letter-spacing: 5px;
+}
+.customer-list{
+    display: flex;
+    justify-content: space-around;
+
 }

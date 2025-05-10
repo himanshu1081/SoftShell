@@ -8,6 +8,7 @@
     margin-top: 50px;
     padding: 50px;
     width: 100vw;
+    background-color: rgb(255, 255, 255);
 }
 
 .second-part-main {
@@ -26,6 +27,7 @@
 
 .heading2 {
     font-family: "Akira",sans-serif;
+    display: inline-block;
     color: black;
     font-size: 40px;
     margin: 0;
