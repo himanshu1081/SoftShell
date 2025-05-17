@@ -11,7 +11,6 @@
     border-radius: 25px;
     background-color: #a9cdc8;
     height: 95vh;
-    border: 1px solid black;
 }
 
 .first-content {
@@ -146,4 +145,14 @@
     width: 35%;
     color: #1b1a1a;
     font-family: 'Lexend Deca', sans-serif;
+}
+
+@media (max-width:828px) {
+    .girl-image {
+    height: 500px;
+    max-width: 30vw;
+    z-index: 1;
+    position: absolute;
+    right: 0px;
+}
 }

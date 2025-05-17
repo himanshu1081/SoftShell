@@ -1,3 +1,4 @@
+import { RiHeartFill, RiSidebarFoldLine } from "@remixicon/react";
 import './NavigationBar.css';
 import './Form.css';
 import { useState } from 'react';
@@ -22,6 +23,7 @@ function NavigationBar() {
         <div className="button">
           <button className='login'>Log in</button>
           <button className='sell' onClick={() => setShowModal(true)}>Sell</button>
+          <RiSidebarFoldLine size={30} className="sidebar-logo"/>
         </div>
       </nav>
       {showModal && (<div className='overlay' onClick={() => setShowModal(false)}></div>)}
